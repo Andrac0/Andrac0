@@ -1,4 +1,4 @@
-### Oi, eu sou o André Rödel
+### Oi, eu sou o André Rödel 😄
 
 - 🌱 Estou estudando Java, atualmente o framework Spring MVC
 
