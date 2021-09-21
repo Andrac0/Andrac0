@@ -1,6 +1,6 @@
 ### Oi, eu sou o André Rödel 😄
 
-- 🌱 Estou estudando Java, atualmente o framework Spring MVC
+- 🌱 Estou estudando Java, atualmente realizando o bootcamp "everis New Talents #2 Java"
 
  <div>
  
