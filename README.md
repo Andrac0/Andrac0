@@ -1,6 +1,6 @@
 ### Oi, eu sou o André Rödel 😄
 
-- 🌱 Estou estudando Java, atualmente realizando o bootcamp "everis New Talents #2 Java"
+- 🌱 Sou Engenheiro de Software na Dell Technologies
 
  <div>
  
