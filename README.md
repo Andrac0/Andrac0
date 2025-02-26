@@ -1,6 +1,6 @@
-### Oi, eu sou o André Rödel 😄
+### Hi, I am André Rödel 😄
 
-- 🌱 Sou Engenheiro de Software na Dell Technologies
+- 🌱 Software Engineer at Dell Technologies
 
  <div>
  
